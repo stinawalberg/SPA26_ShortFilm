@@ -1,0 +1,18 @@
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Local/course asset packs
+Content/01_CourseAssets/
+Content/Fishermans_Cabin/
+Content/SICKA_DYNASTY/
+Content/SoulCave/
+Content/SoulCity/
+Content/StylizedBridge/
+Content/__ExternalActors__/Fishermans_Cabin/
+
+
+# Local tools
+Plugins/UnrealMCP/
