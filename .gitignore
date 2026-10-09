@@ -16,13 +16,3 @@ Content/__ExternalActors__/Fishermans_Cabin/
 
 # Local tools
 Plugins/UnrealMCP/
-
-# Student group folders
-# Put a # in front of YOUR group's line so git picks up your work.
-# (Also covers the group's __ExternalActors__/__ExternalObjects__ data.)
-Content/**/02_StudentWork/Group1/
-Content/**/02_StudentWork/Group2/
-Content/**/02_StudentWork/Group3/
-Content/**/02_StudentWork/Group4/
-Content/**/02_StudentWork/Group5/
-Content/**/02_StudentWork/Group6/
